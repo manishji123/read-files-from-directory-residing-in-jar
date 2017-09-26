@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
+
+Need more than one paragraph? You can specify how many paragraphs you need by changing the first number in the Rand statement. For example, if you needed two paragraphs (with five sentences in each one), you could type this–
+
+=Rand(2,5)
+
+–which would produce this:

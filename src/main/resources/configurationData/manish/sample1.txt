@@ -1,0 +1,11 @@
+Working in Microsoft Word, I often need some “junk” text to play around with, for various reasons:
+
+* I’m designing a document and don’t want to get bogged down in what the text actually says.
+
+* I’m creating a template with various paragraph styles and need to see what they will look like.
+
+* I’m creating a macro and need some text for testing purposes.
+
+* I’m trying to learn more about some feature of Microsoft Word and don’t want to practice on a real document.
+
+Microsoft Word 97, 98, 2000, and 2001 include an undocumented feature that generates all of the sample text I need. Maybe you’ll find it helpful too. To use it, type the following line into a Word document and press the ENTER key:
